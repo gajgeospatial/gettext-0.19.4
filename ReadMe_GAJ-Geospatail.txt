@@ -1,0 +1,1 @@
+This project should be installed as LIBINTL_DIR with ProjectTool.
